@@ -13,7 +13,7 @@ tabtitle = 'Titanic!'
 color1='#007FFF'
 color2='#EFBBCC'
 color3='#FFFF99'
-sourceurl = 'https://www.kaggle.com/c/titanic'
+sourceurl = 'https://www.kaggle.com/akshaysehgal/titanic-data-for-data-preprocessing'
 githublink = 'https://github.com/vharkar/304-titanic-dropdown'
 
 
