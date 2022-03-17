@@ -31,7 +31,7 @@ app.title=tabtitle
 
 ####### Layout of the app ########
 app.layout = html.Div([
-    html.H3('Choose a continuous variable for summary statistics:'),
+    html.H3('Choose an option for summary statistics:'),
     dcc.Dropdown(
         id='dropdown',
         options=[{'label': variables_list[i], 'value': values_list[i]} for i in range(0, len(variables_list))],
